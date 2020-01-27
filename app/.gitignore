@@ -1,0 +1,8 @@
+/build
+/session_analytics_to_send/
+/session_analytics.tap
+fabric.properties
+.cxx
+/proguard/proguard-configuration.txt
+classObfuscationDict.txt
+methodObfuscationDict.txt

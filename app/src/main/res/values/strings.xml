@@ -1,0 +1,9 @@
+<resources>
+    <string name="info_text">This app enables call recording option in Phone app on OnePlus devices</string>
+    <string name="permission_request">This app need permission
+        \“android.permission.WRITE_SECURE_SETTINGS\”. To grand it, connect device via adb and run
+        command \“adb shell pm grant com.don11995.oneplus.callrecorder android.permission.WRITE_SECURE_SETTINGS\”.
+        Then relaunch the app.</string>
+    <string name="call_recorder_enabled">Call recorder option enabled</string>
+    <string name="call_recorder_error">Can not enable call recorder option</string>
+</resources>
